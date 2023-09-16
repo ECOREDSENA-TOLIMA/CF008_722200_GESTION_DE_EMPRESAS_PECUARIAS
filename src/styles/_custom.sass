@@ -2,8 +2,8 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 60%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
@@ -17,3 +17,54 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #000 !important
+
+.boton *, .boton--sm *
+  color: #ffff
+
+.boton, .boton--sm:before
+  color: #ffff
+
+.tema1
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-contenido
+  .tarjeta.color-acento-contenido1
+    background-color: #DBF9BD
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+.tema2
+  .tabs-a__tab
+    background-color:#FFFAD0
+  .tarjeta--azul
+    background-color: #DBF9BD
+  .tarjeta-c.color-acento-contenido
+    background-color: lighten(#3B5620, 45%) !important
+    border-end-start-radius: 30px
+    border-end-end-radius: 30px
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+
+.tema3
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+
