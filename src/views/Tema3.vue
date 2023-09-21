@@ -55,18 +55,18 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-12.desktop(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Sistemas silvopastoriles</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Sistemas silvopastoriles</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-7-1.svg', alt='')
+          img(src='@/assets/curso/temas/tema3/img-7-1.svg', alt='Sistema silvopastoril Pastura / Animales Sistema agrosilvopastoril Pastura/Animales/ Cultivos anuales Sistema agrosilvicola Árboles/ Cultivos anuales Otros sistemas Perennes leñosas')
           figcaption Nota. Tomado de Navas (2016).  
 
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Sistemas silvopastoriles</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Sistemas silvopastoriles</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-7-2.svg', alt='') 
+          img(src='@/assets/curso/temas/tema3/img-7-2.svg', alt='Sistema silvopastoril Pastura / Animales Sistema agrosilvopastoril Pastura/Animales/ Cultivos anuales Sistema agrosilvicola Árboles/ Cultivos anuales Otros sistemas Perennes leñosas') 
 
     Separador 
 
@@ -77,18 +77,18 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Densidad de siembra de árboles</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Densidad de siembra de árboles</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema3/img-8-1.svg', alt='')
+          img.mb-3(src='@/assets/curso/temas/tema3/img-8-1.svg', alt='Figura 6 Densidad de siembra de árboles En la figura se observa la distancia de 3 metros entre zurcos de arbustos, igualmente la distancia de 25 - 30 metros entre arboles grandes, en la parte izquierda las imágenes de los árboles casuarina cordia, cedrela, cenizaro, aguacate, cítricos, mango, gliricidia, erytrina, inga; formas de copa estrella o tipo sombrilla.')
           figcaption Nota. Tomado de Muscler (2020). 
 
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Densidad de siembra de árboles</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Densidad de siembra de árboles</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-8-2.svg', alt='') 
+          img(src='@/assets/curso/temas/tema3/img-8-2.svg', alt='Figura 6 Densidad de siembra de árboles En la figura se observa la distancia de 3 metros entre zurcos de arbustos, igualmente la distancia de 25 - 30 metros entre arboles grandes, en la parte izquierda las imágenes de los árboles casuarina cordia, cedrela, cenizaro, aguacate, cítricos, mango, gliricidia, erytrina, inga; formas de copa estrella o tipo sombrilla.') 
 
     Separador 
 
@@ -122,7 +122,7 @@
       .col-md-7
         p El tipo de semilla a utilizar dependerá de las condiciones físico-químicas presentes en la finca y de la escogencia del tipo de sistema silvopastoril a implementar, ya que la relación de estos factores determina las especies a implantar en la finca. 
     
-    .tarjeta.color-acento-contenido.p-3.mb-5(data-aos="fade-down")
+    .tarjeta.color-secundario.p-3.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema3/decorador-1.svg")
@@ -133,7 +133,7 @@
               p.text-small Para mayor información ver el siguiente enlace:
 
             .col-sm-auto
-              a.boton.color-secundario.texto-negro(href="https://www.contextoganadero.com/reportaje/la-lista-de-pastos-tolerantes-los-diferentes-tipos-de-suelos" target="_blank")
+              a.boton.color-acento-contenido.texto-negro(href="https://www.contextoganadero.com/reportaje/la-lista-de-pastos-tolerantes-los-diferentes-tipos-de-suelos" target="_blank")
                 span Link
                 i.fas.fa-link
 
@@ -148,21 +148,21 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 8.] <em>Siembra de pastos</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Siembra de pastos</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema3/img-12-1.svg', alt='')
+          img.mb-3(src='@/assets/curso/temas/tema3/img-12-1.svg', alt='Figura 7 Siembra de pastos En la figura se observa la calibración de la máquina manual sembradora abonadora, distancia que se camina con la sembradora 25 metros por 2.5 metros, si en 10.000 metros cuadrados debemos distribuir 7.000 gramos de semilla, ¿Cuánta semilla debemos distribuir en 50 metros cuadrados?, 50 metros cuadrados por 7.000 g dividido 10.000 metros cuadrados igual a 35 g de semilla.')
           figcaption Nota. Tomado de AGROSAVIA (2020).
 
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 8.] <em>Siembra de pastos</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Siembra de pastos</em>
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img-12-2.svg', alt='')
+          img(src='@/assets/curso/temas/tema3/img-12-2.svg', alt='Figura 7 Siembra de pastos En la figura se observa la calibración de la máquina manual sembradora abonadora, distancia que se camina con la sembradora 25 metros por 2.5 metros, si en 10.000 metros cuadrados debemos distribuir 7.000 gramos de semilla, ¿Cuánta semilla debemos distribuir en 50 metros cuadrados?, 50 metros cuadrados por 7.000 g dividido 10.000 metros cuadrados igual a 35 g de semilla.')
         .row
           .col-lg-6
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/establesimiento_ssp.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -173,7 +173,7 @@
     p Se realizará ahoyado ya sea mecánico o manual para la instalación de los arbustos previamente seleccionados de acuerdo con las proyecciones realizadas y se aplicarán los aditivos necesarios, con base en la demanda biológica de los suelos para proceder a la siembra de las plantas.
     p.mb-5 Para que la siembra sea un éxito se deben realizar controles de arvenses para así mitigar que esas especies compitan por el agua y/o nutrientes con el método del plateo. Ya en la etapa de estructuración o maduración del sistema silvopastoril se realizarán podas de formación y mantenimiento, estos cortes se llevarán a cabo en bisel y por lo menos una vez al año en épocas de lluvia y posterior al periodo de descanso establecido en el sistema de rotación.
 
-    .tarjeta.color-acento-contenido.p-3.mb-5(data-aos="fade-down")
+    .tarjeta.color-secundario.p-3.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema3/decorador-1.svg")
@@ -184,7 +184,7 @@
               p.text-small Para complementar la información sobre establecimiento de un sistema silvopastoril, se invita a ver el siguiente vídeo:
 
             .col-sm-auto
-              a.boton.color-secundario.texto-negro(href="https://youtu.be/22-43ta4-No" target="_blank")
+              a.boton.color-acento-contenido.texto-negro(href="https://youtu.be/22-43ta4-No" target="_blank")
                 span Link
                 i.fas.fa-link
 

@@ -7,7 +7,7 @@
         span 1
       h1 Sistemas silvopastoriles trópico bajo y alto
 
-    p Los sistemas silvopastoriles mejoran los factores fisicoquímicos y biológicos del suelo, optimizando el reciclaje de nutrientes, aumentando la oferta y la calidad del forraje en épocas de sequía, disminuyendo la presencia de plagas como el mión y el chinche (“Aeneclamia” y “Blyssus sp”). 
+    p Los sistemas silvopastoriles mejoran los factores fisicoquímicos y biológicos del suelo, optimizando el reciclaje de nutrientes, aumentando la oferta y la calidad del forraje en épocas de sequía, disminuyendo la presencia de plagas como el mión y el chinche (<em>“Aeneclamia” y “Blyssus sp”</em>). 
     p.mb-5 La implementación del sistema silvopastoril se caracteriza por:
 
     .tarjeta.color-secundario.p-4.mb-5(data-aos="fade-down-left") 
@@ -39,7 +39,7 @@
               img(src='@/assets/curso/temas/tema1/img-4.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Las investigaciones realizadas en el área de Silvopastoreo principalmente por: La Corporación Colombiana de Investigación agropecuaria Corpoica, con apoyo de Fedegan, Colciencias y el Ministerio de Agricultura; La Corporación Nacional de Investigaciones Forestales (CONIF)
+            p Las investigaciones realizadas en el área de Silvopastoreo principalmente por: La Corporación Colombiana de Investigación agropecuaria Corpoica, con apoyo de Fedegan, Colciencias y el Ministerio de Agricultura; La Corporación Nacional de Investigaciones Forestales (CONIF).
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-5.png', alt='')
@@ -51,7 +51,7 @@
               img(src='@/assets/curso/temas/tema1/img-6.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p La Universidad de Chapingo. México: <em>“The Forestry Research Institute”</em> de <em>“Taiwan; the Nitrogen Fixing Tree Association. The Australian Tree Centre CSIRO, the Oxford Forestry institute. UK”</em> entre otros, han demostrado que estos sistemas son una alternativa tecnológica real e integral de producción pecuaria de grandes perspectivas para las condiciones tropicales
+            p La Universidad de Chapingo. México: <em>“The Forestry Research Institute”</em> de <em>“Taiwan; the Nitrogen Fixing Tree Association. The Australian Tree Centre CSIRO, the Oxford Forestry institute. UK”</em> entre otros, han demostrado que estos sistemas son una alternativa tecnológica real e integral de producción pecuaria de grandes perspectivas para las condiciones tropicales.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-7.png', alt='')
@@ -62,7 +62,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-8.png', alt='')
 
-    .tarjeta.color-acento-contenido.p-3.mb-5(data-aos="fade-down")
+    .tarjeta.color-secundario.p-3.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/decorador-1.svg")
@@ -73,8 +73,8 @@
               p.text-small Se invita a ver el siguiente vídeo sobre sistemas silvopastoriles en trópico alto: Visita Virtual a los Sistemas Silvopastoriles de trópico alto C.I Tibaitatá - AGROSAVIA
 
             .col-sm-auto
-              a.boton.color-secundario.texto-negro(href="https://repositorio.sena.edu.co/sitios/calidad_del_agua/pdf/Calidad_del_agua.pdf" target="_blank")
-                span Ir al sitio web
+              a.boton.color-acento-contenido.texto-negro(href="https://repositorio.sena.edu.co/sitios/calidad_del_agua/pdf/Calidad_del_agua.pdf" target="_blank")
+                span Link
                 i.fas.fa-link
 
     Separador 
@@ -121,7 +121,7 @@
         p En las Buenas Prácticas Agrícolas - BPA, las actividades van desde la producción, pasando por el procesamiento y transporte final de los productos de origen agropecuario, garantizando la calidad del producto, el cuidado del ecosistema, hasta el bienestar del personal, mejorando sus locaciones de trabajo y usos de EPP’s.  En la producción pecuaria las BPA tienen en cuenta las especies animales.
         p El contenido general de un plan de Buenas Prácticas Agrícolas -BPA- incluye 11 actividades y/o disciplinas para la elaboración de la gestión integral de calidad de diversos sistemas de producción:
 
-    PasosA.color-primario.mb-5(tipo="n" data-aos="fade-down")
+    PasosA.color-acento-contenido.mb-5(tipo="n" data-aos="fade-down")
       .row
         .col-md-7.mb-4.mb-md-0(data-aos="down-left")
           h4 Agua
@@ -222,29 +222,62 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
-        .titulo-sexto.color-primario
+        .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Buenas Prácticas Agrícolas</em>
         figure
-          img(src='@/assets/curso/temas/tema1/img-22.svg', alt='')  
-
+          img(src='@/assets/curso/temas/tema1/img-22.svg', alt='Figura 1 Buenas Prácticas Agrícolas. En la figura se observa: Manejo: manejo de excretas, biodigestores, captura de agua. Sanidad: uso de plantas medicinales. Alimentación: diseño de sistemas silvopastoriles, uso y conservación de forrajes, bloques nutricionales, manejo de pastizales, rotación de potreros.')  
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-primario
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Buenas Prácticas Agrícolas</em>
         figure
-          img(src='@/assets/curso/temas/tema1/img-23.svg', alt='')  
+          img(src='@/assets/curso/temas/tema1/img-23.svg', alt='Figura 1 Buenas Prácticas Agrícolas. En la figura se observa: Manejo: manejo de excretas, biodigestores, captura de agua. Sanidad: uso de plantas medicinales. Alimentación: diseño de sistemas silvopastoriles, uso y conservación de forrajes, bloques nutricionales, manejo de pastizales, rotación de potreros.')  
 
     p.mb-5 La normatividad que legisla sobre las buenas prácticas agrícolas - BPA se encuentra expresada en la siguiente tabla. 
 
     .row.justify-content-center.mb-5
       .col-md-6.col-lg-3.col-12.mb-3(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema1/img-24.svg', alt='') 
-      .col-md-6.col-lg-7.col-12.px-md-5(data-aos="fade-left")
-        .titulo-sexto.color-primario
+      .col-md-6.col-lg-8.col-12.px-md-5(data-aos="fade-left", alt="Tabla 1 Normativa buenas prácticas agrícolas. En la tabla se observan las normas y su respectivo alcance.")
+        .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Tabla 1.] <em>Normativa buenas prácticas agrícolas</em>
-        img(src='@/assets/curso/temas/tema1/img-25.svg', alt='') 
-    
-
+        .tabla-a.color-acento-botones 
+          table
+            thead
+              tr
+                th Norma
+                th Alcance
+            tbody.text-center
+              tr
+                td(style="background-color:#F6F6F6") <strong>Ley 23 de 1973 del Ministerio de Vivienda y Ordenamiento Territorial MIVIOT</strong>
+                td(style="background-color:#F6F6F6") Ley de conservación de fauna silvestre
+              tr
+                td <strong>Decreto Ley 2811 de 1974 del Ministerio de Agricultura</strong> 
+                td Crea el Código nacional de los recursos naturales renovables y de protección del medio ambiente 
+              tr
+                td(style="background-color:#F6F6F6") <strong>Ley 9 de 1979 del Honorable Congreso de la República</strong>
+                td(style="background-color:#F6F6F6") Por la cual dictan medidas sanitarias para la protección del medio ambiente
+              tr
+                td <strong>Ley 79 de 1986 </strong>
+                td Por la cual se prevé la conservación de agua y se dictan otras disposiciones
+              tr
+                td(style="background-color:#F6F6F6") <strong>Ley 388 de 1997</strong>
+                td(style="background-color:#F6F6F6") Define el marco general del ordenamiento territorial que debe ser aplicado por los entes territoriales y en el que se debe incluir la variable ambiental  
+              tr
+                td <strong>Ley 1021 de 2006</strong>
+                td Ley general forestal 
+              tr
+                td(style="background-color:#F6F6F6") <strong>Decreto 1449 de 1977</strong>
+                td(style="background-color:#F6F6F6") Reglamenta el Decreto 2811 de 1974, donde se estable la obligación de los propietarios de predios a conservar la cobertura mínima en los nacederos de agua 
+              tr
+                td <strong>Decreto 1608 de 1978</strong>
+                td Por la cual se reglamenta el Código nacional de recursos naturales renovables
+              tr
+                td(style="background-color:#F6F6F6") <strong>Decreto 1791 de 1996</strong>
+                td(style="background-color:#F6F6F6") Régimen de aprovechamiento forestal 
+              tr
+                td <strong>Decreto reglamentario 2300 de 2006</strong>
+                td Se reglamentó parcialmente la Ley forestal y se definen las funciones del MADR  
 
 
 

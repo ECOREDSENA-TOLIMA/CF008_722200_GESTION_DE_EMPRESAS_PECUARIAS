@@ -16,11 +16,8 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Diseños de Sistemas Silvopastoriles para zonas de trópico bajo, medio y alto</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema2/img-1.png', alt='')
-          figcaption Nota: Tomado de https://www.agronet.gov.co/Noticias/Paginas/Dise%C3%B1os-de-Sistemas-Silvopastoriles-para-zonas-de-tr%C3%B3pico-bajo,-medio-y-alto.aspx
 
     p En una finca ganadera se pueden implementar diferentes tipos de sistemas silvopastoriles - SSP, que ayudarán a mejorar la eficiencia en la producción, como se describe a continuación.
 
@@ -119,17 +116,17 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Distribución espacial de arbustos</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Distribución espacial de arbustos</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-3-1.svg', alt='')  
+          img(src='@/assets/curso/temas/tema2/img-3-1.svg', alt='Figura 2 Distribución espacial de arbustos. En la figura se observa de derecha a izquierda oriente - occidente, luego un rombo con dos vacas, al rededor arbustos, seguido dos hileras de arbustos con dos vacas en el callejón, y una flecha que dice orientado sobre la trayectoria del sol.')  
 
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Distribución espacial de arbustos</em>
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Distribución espacial de arbustos</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-3-2.svg', alt='') 
+          img(src='@/assets/curso/temas/tema2/img-3-2.svg', alt='Figura 2 Distribución espacial de arbustos. En la figura se observa de derecha a izquierda oriente - occidente, luego un rombo con dos vacas, al rededor arbustos, seguido dos hileras de arbustos con dos vacas en el callejón, y una flecha que dice orientado sobre la trayectoria del sol.') 
 
     Separador 
     
@@ -146,38 +143,38 @@
         .col-lg-7
           ul.lista-ul.mb-3
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Es una alternativa alimenticia en temporadas secas.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Sirven de límites entre propiedades y cerramientos de potreros, parcelas y praderas.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Aportan sombra y forraje a los animales (ramoneo).
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Contribuyen en la protección de la frontera agrícola, delimitando la intervención del bosque.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Son refugio de aves y de otros animales.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Aportan en la reforestación de zonas libres de especies arbóreas.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Proveen follaje, frutos, semillas y material vegetativo de propagación.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Aportan nutrientes y materia orgánica al suelo.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Pueden funcionar como barreras o cortinas rompevientos.
             li 
-              i.lista-ul__vineta
+              i.fas.fa-atom
               | Mejoras paisajísticas.
             li 
-              i.lista-ul__vineta
-              | Reducen costos de construcción de cercas, casi en un 50%.
+              i.fas.fa-atom
+              | Reducen costos de construcción de cercas, casi en un 50 %.
 
     TabsB.color-acento-contenido.mb-5(data-aos="flip-up")
       .py-4.py-md-5(titulo="Funcionalidad")
@@ -202,7 +199,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-7.png', alt='Texto que describa la imagen')
           .col-md-5.mb-4.mb-md-0.offset-2
-            p En ocasiones se puede introducir especies herbáceas, como el botón de oro, el limoncillo, y pastos de corte como el King grass y el elefante, con el fin de ampliar la barrera, la desventaja radica en que los animales podrán digerirla y hacerla desaparecer.
+            p En ocasiones se puede introducir especies herbáceas, como el botón de oro, el limoncillo, y pastos de corte como el <em>King grass</em> y el elefante, con el fin de ampliar la barrera, la desventaja radica en que los animales podrán digerirla y hacerla desaparecer.
 
       .py-4.py-md-5(titulo="Selección")
         .row.justify-content-center.align-items-center
@@ -221,18 +218,18 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Tipos de estratos en el sistema silvopastoril</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Tipos de estratos en el sistema silvopastoril</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-9-1.svg', alt='')  
+          img.mb-3(src='@/assets/curso/temas/tema2/img-9-1.svg', alt='Figura 3 Tipos de estratos en el sistema silvopastoril. Estrato alto. Estrato medio. Estrato bajo')  
           figcaption Nota. Tomado de Carvajal.
 
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Tipos de estratos en el sistema silvopastoril</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Tipos de estratos en el sistema silvopastoril</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-9-2.svg', alt='')  
+          img(src='@/assets/curso/temas/tema2/img-9-2.svg', alt='Figura 3 Tipos de estratos en el sistema silvopastoril. Estrato alto. Estrato medio. Estrato bajo')  
 
     TabsA.color-acento-botones.mb-5
       .tarjeta.tarjeta--azul.p-4(titulo="Estrato bajo o de pastoreo")
@@ -264,10 +261,10 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10(data-aos="fade-right")
-        .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Características de las especies vegetales a establecer en el SSP</em>
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Características de las especies vegetales a establecer en el SSP</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-10.svg', alt='')
+          img.mb-3(src='@/assets/curso/temas/tema2/img-10.svg', alt='Identificación del uso de especies locales, desde tiempos ancestrales. Buena adaptación a la zona. Facilidad de propagación. Capacidad de rebote después de corte o pastoreo. Capacidad de asociarse con otras especies. Gustosidad y buena calidad nutricional. Alto rendimiento de forraje verde en MS/Ha')
 
     .row
       .col-lg-4
@@ -279,11 +276,77 @@
     p.mb-5 Las características que debe tener una especie priorizada para el forraje para integrar exitosamente un sistema silvopastoril son la productividad y la calidad nutricional, además de tener muy buena adaptación al “sombreado”, a la fertilidad de los suelos y la competencia que se presenta con otras especies (arbóreas, arbustivas y en asociación con otras forrajeras, sean leguminosas o gramíneas), ver tabla.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-12(data-aos="fade-right")
-        .titulo-sexto.color-primario
+      .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="Tabla 2 Especies forrajeras trópico alto y bajo. En la tabla se observan los campos: nombre común, nombre científico, trópico, uso. Para: Bayo, Bohío, Botón de oro, Carbonero, Colla negra, Dalia, Gomo, Guácimo, Iguá, Leucaena, Morera, Patevaca, Sauco, Tilo.")
+        .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Tabla 2.] <em>Especies forrajeras trópico alto y bajo</em>
-        figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-11.svg', alt='')
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th Nombre común
+                th Nombre científico
+                th Trópico
+                th Uso 
+            tbody.text-center
+              tr
+                td(style="background-color:#F6F6F6") <strong>Bayo</strong>
+                td(style="background-color:#F6F6F6") <em>Albizia niopoides</em>
+                td(style="background-color:#F6F6F6") Bajo
+                td(rowspan="8")(style="background-color:#F6F6F6") Ramoneo
+              tr
+                td <strong>Bohío</strong>
+                td <em>Clitoria faichildiana</em>
+                td Bajo
+              tr
+                td(style="background-color:#F6F6F6") <strong>Botón de oro</strong> 
+                td(style="background-color:#F6F6F6") <em>Ranunculus acris</em>
+                td(style="background-color:#F6F6F6") Alto
+              tr
+                td <strong>Carbonero</strong> 
+                td <em>Calliandra riparia</em>
+                td Bajo
+              tr
+                td(style="background-color:#F6F6F6") <strong>Colla negra</strong>  
+                td(style="background-color:#F6F6F6") <em>Smallanthus pyranidalis</em>
+                td(style="background-color:#F6F6F6") Alto
+              tr
+                td <strong>Dalia</strong> 
+                td <em>Dahlia</em>
+                td Alto
+              tr
+                td(style="background-color:#F6F6F6") <strong>Gomo</strong> 
+                td(style="background-color:#F6F6F6") <em>Cordia alba</em>
+                td(style="background-color:#F6F6F6") Bajo
+              tr
+                td <strong>Guácimo</strong>
+                td <em>Guazuma ulmifobia</em>
+                td Bajo
+              tr
+                td(style="background-color:#F6F6F6") <strong>Iguá</strong>
+                td(style="background-color:#F6F6F6") <em>Albizia guachapele</em>
+                td(style="background-color:#F6F6F6") Bajo
+                td Ramoneo sombrío
+              tr
+                td <strong>Leucaena</strong> 
+                td <em>Leucaena leucocephala</em>
+                td Bajo
+                td(rowspan="5")(style="background-color:#F6F6F6") Ramoneo
+              tr
+                td(style="background-color:#F6F6F6") <strong>Morera</strong> 
+                td(style="background-color:#F6F6F6") <em>Morus alba </em>
+                td(style="background-color:#F6F6F6") Alto
+              tr
+                td <strong>Patevaca</strong>
+                td <em>Bauhinia variegata</em>
+                td Bajo
+              tr
+                td(style="background-color:#F6F6F6") <strong>Sauco</strong> 
+                td(style="background-color:#F6F6F6") <em>Sambucus racemosa</em>
+                td(style="background-color:#F6F6F6") Alto
+              tr
+                td <strong>Tilo</strong>
+                td <em>Ranunculus acris</em>
+                td Tilia 
 
     .row
       .col-lg-4
@@ -295,11 +358,98 @@
     p.mb-5 Se conoce como una especie forestal con fines energéticos a todo árbol leñoso, del cual se puede obtener biomasa con fines energéticos, especialmente leña, ver tabla.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-12(data-aos="fade-right")
-        .titulo-sexto.color-primario
+      .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="Tabla 3 Especies forestales. En la tabla se observan los nombres comunes, nombre científico, tropico y uso.")
+        .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Tabla 3.] <em>Especies forestales</em>
-        figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-12.svg', alt='')
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th Nombre común
+                th Nombre científico
+                th Trópico
+                th Uso 
+            tbody.text-center
+              tr
+                td(style="background-color:#F6F6F6") <strong>Acacia japonesa </strong>
+                td(style="background-color:#F6F6F6") <em>Acacia melanoxylon</em>
+                td(style="background-color:#F6F6F6") Alto
+                td(style="background-color:#F6F6F6") Sombrío
+              tr
+                td <strong>Aliso</strong>
+                td <em>Alnus glutinosa</em>
+                td Alto
+                td Sombrío - cercas vivas
+              tr
+                td(style="background-color:#F6F6F6") <strong>Cachingo</strong> 
+                td(style="background-color:#F6F6F6") <em>Erythrina fusca</em>
+                td(style="background-color:#F6F6F6") Bajo
+                td(rowspan="3")(style="background-color:#F6F6F6") Cercas vivas
+              tr
+                td <strong>Ciruelo ácido</strong> 
+                td <em>Spondias monbin</em>
+                td Bajo
+              tr
+                td(style="background-color:#F6F6F6") <strong>Ciruelo dulce </strong>  
+                td(style="background-color:#F6F6F6") <em>Spondias purpureum</em>
+                td(style="background-color:#F6F6F6") Bajo
+              tr
+                td <strong>Cují</strong> 
+                td <em>Prosopis juliflora</em>
+                td Bajo
+                td Sombrío
+              tr
+                td(style="background-color:#F6F6F6") <strong>Eucalipto</strong> 
+                td(style="background-color:#F6F6F6") <em>Eucaliptus</em>
+                td(style="background-color:#F6F6F6") Alto
+                td(style="background-color:#F6F6F6") Sombrío - cercas vivas
+              tr
+                td <strong>Gualanday</strong>
+                td <em>Jacaranda caucana</em>
+                td Bajo
+                td(rowspan="2") Sombrío y frutos
+              tr
+                td(style="background-color:#F6F6F6") <strong>Iguá</strong>
+                td(style="background-color:#F6F6F6") <em>Albizia guachapele</em>
+                td(style="background-color:#F6F6F6") Bajo
+              tr
+                td <strong>Mataraton</strong> 
+                td <em>Gliricida sepium</em>
+                td Bajo
+                td(rowspan="2")(style="background-color:#F6F6F6") Cercas vivas
+              tr
+                td(style="background-color:#F6F6F6") <strong>Moringa</strong> 
+                td(style="background-color:#F6F6F6") <em>Moringa oleífera</em>
+                td(style="background-color:#F6F6F6") Bajo
+              tr
+                td <strong>Orejero</strong>
+                td <em>Enterolobium cyclocarpum</em>
+                td Bajo
+                td Sombrío y frutos
+              tr
+                td(style="background-color:#F6F6F6") <strong>Payandé</strong> 
+                td(style="background-color:#F6F6F6") <em>Pythecellobium dulce</em>
+                td(style="background-color:#F6F6F6") Bajo 
+                td(rowspan="2")(style="background-color:#F6F6F6") Sombrío
+              tr
+                td <strong>Raspayuco</strong>
+                td <em>Chloroleucom bogotense</em>
+                td Bajo
+              tr
+                td(style="background-color:#F6F6F6") <strong>Samán</strong> 
+                td(style="background-color:#F6F6F6") <em>Albizia saman</em>
+                td(style="background-color:#F6F6F6") Bajo 
+                td(style="background-color:#F6F6F6") Sombrío y frutos
+              tr
+                td <strong>Totumo</strong>
+                td <em>Crescentia cujete</em>
+                td Bajo
+                td Sombrío
+              tr
+                td(style="background-color:#F6F6F6") <strong>Vainillo</strong> 
+                td(style="background-color:#F6F6F6") <em>Senna spectabilis</em>
+                td(style="background-color:#F6F6F6") Bajo 
+                td(style="background-color:#F6F6F6") Sombrío y frutos
 
     Separador 
 
@@ -452,7 +602,7 @@
 
     p.mb-5 Muchos sistemas de pastoreo están basados en un ciclo de 30 días, usando 60 potreros el productor puede rotar los pastos dos veces al día, hay algunos sistemas donde esto se hace. En general, la mayoría de los sistemas manejados más intensivamente se basan en 15 potreros, con un ciclo de 2 días de pastoreo en cada uno de ellos, resulta entonces que cada potrero se utiliza 2 días y tiene 28 días de descanso (contexto ganadero).
 
-    .tarjeta.color-acento-contenido.p-3.mb-5(data-aos="fade-down")
+    .tarjeta.color-secundario.p-3.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/decorador-1.svg")
@@ -463,7 +613,7 @@
               p.text-small Para complementar la información sobre diseño e implementación de sistemas silvopastoriles, se invita a ver el siguiente vídeo:
 
             .col-sm-auto
-              a.boton.color-secundario.texto-negro(href="https://www.youtube.com/watch?v=Wp5qbTODkuQ&feature=youtu.be" target="_blank")
+              a.boton.color-acento-contenido.texto-negro(href="https://www.youtube.com/watch?v=Wp5qbTODkuQ&feature=youtu.be" target="_blank")
                 span Link
                 i.fas.fa-link
 
