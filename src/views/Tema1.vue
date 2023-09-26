@@ -73,7 +73,7 @@
               p.text-small Se invita a ver el siguiente vídeo sobre sistemas silvopastoriles en trópico alto: Visita Virtual a los Sistemas Silvopastoriles de trópico alto C.I Tibaitatá - AGROSAVIA
 
             .col-sm-auto
-              a.boton.color-acento-contenido.texto-negro(href="https://repositorio.sena.edu.co/sitios/calidad_del_agua/pdf/Calidad_del_agua.pdf" target="_blank")
+              a.boton.color-acento-contenido.texto-negro(href="https://www.youtube.com/watch?v=DX3QssybS38" target="_blank")
                 span Link
                 i.fas.fa-link
 

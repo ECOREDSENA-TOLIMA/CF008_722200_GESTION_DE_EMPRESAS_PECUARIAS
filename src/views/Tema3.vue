@@ -133,7 +133,7 @@
               p.text-small Para mayor información ver el siguiente enlace:
 
             .col-sm-auto
-              a.boton.color-acento-contenido.texto-negro(href="https://www.contextoganadero.com/reportaje/la-lista-de-pastos-tolerantes-los-diferentes-tipos-de-suelos" target="_blank")
+              a.boton.color-acento-contenido.texto-negro(href="https://www.contextoganadero.com/galeria/conozca-los-pastos-tolerantes-determinado-tipo-de-suelos" target="_blank")
                 span Link
                 i.fas.fa-link
 

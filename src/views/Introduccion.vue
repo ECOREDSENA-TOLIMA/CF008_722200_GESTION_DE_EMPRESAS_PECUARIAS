@@ -14,6 +14,10 @@
     p La ganadería afecta la biodiversidad cuando se sobre pastorea, contaminando los potreros y el ambiente, cuando se talan bosques o árboles para establecer pasturas, como también, cuando se transforman los hábitats y ecosistemas naturales para establecer ganadería, igualmente, cuando se introducen especies vegetales o animales traídas de otros ecosistemas. Para complementar lo anterior se invita a ver el siguiente video:
     
     
+
+
+
+    
 </template>
 
 <script>
