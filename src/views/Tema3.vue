@@ -58,7 +58,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Sistemas silvopastoriles</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-7-1.svg', alt='Sistema silvopastoril Pastura / Animales Sistema agrosilvopastoril Pastura/Animales/ Cultivos anuales Sistema agrosilvicola Árboles/ Cultivos anuales Otros sistemas Perennes leñosas')
+          img(src='@/assets/curso/temas/tema3/img-7-1.jpg', alt='Sistema silvopastoril Pastura / Animales Sistema agrosilvopastoril Pastura/Animales/ Cultivos anuales Sistema agrosilvicola Árboles/ Cultivos anuales Otros sistemas Perennes leñosas')
           figcaption Nota. Tomado de Navas (2016).  
 
     .row.mt-5
@@ -66,7 +66,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Sistemas silvopastoriles</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-7-2.svg', alt='Sistema silvopastoril Pastura / Animales Sistema agrosilvopastoril Pastura/Animales/ Cultivos anuales Sistema agrosilvicola Árboles/ Cultivos anuales Otros sistemas Perennes leñosas') 
+          img(src='@/assets/curso/temas/tema3/img-7-2.jpg', alt='Sistema silvopastoril Pastura / Animales Sistema agrosilvopastoril Pastura/Animales/ Cultivos anuales Sistema agrosilvicola Árboles/ Cultivos anuales Otros sistemas Perennes leñosas') 
 
     Separador 
 
@@ -80,7 +80,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Densidad de siembra de árboles</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema3/img-8-1.svg', alt='Figura 6 Densidad de siembra de árboles En la figura se observa la distancia de 3 metros entre zurcos de arbustos, igualmente la distancia de 25 - 30 metros entre arboles grandes, en la parte izquierda las imágenes de los árboles casuarina cordia, cedrela, cenizaro, aguacate, cítricos, mango, gliricidia, erytrina, inga; formas de copa estrella o tipo sombrilla.')
+          img.mb-3(src='@/assets/curso/temas/tema3/img-8-1.jpg', alt='Figura 6 Densidad de siembra de árboles En la figura se observa la distancia de 3 metros entre zurcos de arbustos, igualmente la distancia de 25 - 30 metros entre arboles grandes, en la parte izquierda las imágenes de los árboles casuarina cordia, cedrela, cenizaro, aguacate, cítricos, mango, gliricidia, erytrina, inga; formas de copa estrella o tipo sombrilla.')
           figcaption Nota. Tomado de Muscler (2020). 
 
     .row.mt-5
@@ -88,7 +88,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Densidad de siembra de árboles</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-8-2.svg', alt='Figura 6 Densidad de siembra de árboles En la figura se observa la distancia de 3 metros entre zurcos de arbustos, igualmente la distancia de 25 - 30 metros entre arboles grandes, en la parte izquierda las imágenes de los árboles casuarina cordia, cedrela, cenizaro, aguacate, cítricos, mango, gliricidia, erytrina, inga; formas de copa estrella o tipo sombrilla.') 
+          img(src='@/assets/curso/temas/tema3/img-8-2.jpg', alt='Figura 6 Densidad de siembra de árboles En la figura se observa la distancia de 3 metros entre zurcos de arbustos, igualmente la distancia de 25 - 30 metros entre arboles grandes, en la parte izquierda las imágenes de los árboles casuarina cordia, cedrela, cenizaro, aguacate, cítricos, mango, gliricidia, erytrina, inga; formas de copa estrella o tipo sombrilla.') 
 
     Separador 
 
@@ -151,7 +151,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Siembra de pastos</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema3/img-12-1.svg', alt='Figura 7 Siembra de pastos En la figura se observa la calibración de la máquina manual sembradora abonadora, distancia que se camina con la sembradora 25 metros por 2.5 metros, si en 10.000 metros cuadrados debemos distribuir 7.000 gramos de semilla, ¿Cuánta semilla debemos distribuir en 50 metros cuadrados?, 50 metros cuadrados por 7.000 g dividido 10.000 metros cuadrados igual a 35 g de semilla.')
+          img.mb-3(src='@/assets/curso/temas/tema3/img-12-1.jpg', alt='Figura 7 Siembra de pastos En la figura se observa la calibración de la máquina manual sembradora abonadora, distancia que se camina con la sembradora 25 metros por 2.5 metros, si en 10.000 metros cuadrados debemos distribuir 7.000 gramos de semilla, ¿Cuánta semilla debemos distribuir en 50 metros cuadrados?, 50 metros cuadrados por 7.000 g dividido 10.000 metros cuadrados igual a 35 g de semilla.')
           figcaption Nota. Tomado de AGROSAVIA (2020).
 
     .row.mt-5
@@ -159,7 +159,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Siembra de pastos</em>
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img-12-2.svg', alt='Figura 7 Siembra de pastos En la figura se observa la calibración de la máquina manual sembradora abonadora, distancia que se camina con la sembradora 25 metros por 2.5 metros, si en 10.000 metros cuadrados debemos distribuir 7.000 gramos de semilla, ¿Cuánta semilla debemos distribuir en 50 metros cuadrados?, 50 metros cuadrados por 7.000 g dividido 10.000 metros cuadrados igual a 35 g de semilla.')
+          img(src='@/assets/curso/temas/tema3/img-12-2.jpg', alt='Figura 7 Siembra de pastos En la figura se observa la calibración de la máquina manual sembradora abonadora, distancia que se camina con la sembradora 25 metros por 2.5 metros, si en 10.000 metros cuadrados debemos distribuir 7.000 gramos de semilla, ¿Cuánta semilla debemos distribuir en 50 metros cuadrados?, 50 metros cuadrados por 7.000 g dividido 10.000 metros cuadrados igual a 35 g de semilla.')
         .row
           .col-lg-6
             a.anexo.mb-4(:href="obtenerLink('/downloads/establesimiento_ssp.pdf')" target="_blank")

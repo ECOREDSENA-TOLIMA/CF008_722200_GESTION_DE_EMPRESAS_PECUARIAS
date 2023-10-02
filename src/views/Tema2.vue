@@ -47,7 +47,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Cercas vivas
-            p las cercas vivas proveen de alimento y sombra a los animales y también pueden servir como rompe vientos en los sitios donde la acción de los vientos genera erosiones u otras situaciones relacionadas
+            p las cercas vivas proveen de alimento y sombra a los animales y también pueden servir como rompe vientos en los sitios donde la acción de los vientos genera erosiones u otras situaciones relacionadas.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img-003.svg', alt='')
@@ -55,7 +55,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Arboles dispersos  
             p Árboles dispersos: los árboles sirven de sombra así como permiten el paso de la luz solar por medio de sus ramas que producen buenos pastos como ocurre con el Cambrón blanco <em>(“Prosopis juliflora”)</em> en zonas de trópico bajo donde hay periodos de sequía extensos. 
-            p Otro punto importante de la instalación de árboles en la finca es que algunas especies, como las leguminosas, mejoran el suelo debido a su interacción con microorganismos llamados micorrizas, que tienen la capacidad de absorber el nitrógeno del aire y almacenarlo junto a las raíces de los árboles 
+            p Otro punto importante de la instalación de árboles en la finca es que algunas especies, como las leguminosas, mejoran el suelo debido a su interacción con microorganismos llamados micorrizas, que tienen la capacidad de absorber el nitrógeno del aire y almacenarlo junto a las raíces de los árboles. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img-004.svg', alt='')
@@ -119,14 +119,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Distribución espacial de arbustos</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-3-1.svg', alt='Figura 2 Distribución espacial de arbustos. En la figura se observa de derecha a izquierda oriente - occidente, luego un rombo con dos vacas, al rededor arbustos, seguido dos hileras de arbustos con dos vacas en el callejón, y una flecha que dice orientado sobre la trayectoria del sol.')  
+          img(src='@/assets/curso/temas/tema2/img-3-1.jpg', alt='Figura 2 Distribución espacial de arbustos. En la figura se observa de derecha a izquierda oriente - occidente, luego un rombo con dos vacas, al rededor arbustos, seguido dos hileras de arbustos con dos vacas en el callejón, y una flecha que dice orientado sobre la trayectoria del sol.')  
 
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-primario
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Distribución espacial de arbustos</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-3-2.svg', alt='Figura 2 Distribución espacial de arbustos. En la figura se observa de derecha a izquierda oriente - occidente, luego un rombo con dos vacas, al rededor arbustos, seguido dos hileras de arbustos con dos vacas en el callejón, y una flecha que dice orientado sobre la trayectoria del sol.') 
+          img(src='@/assets/curso/temas/tema2/img-3-2.jpg', alt='Figura 2 Distribución espacial de arbustos. En la figura se observa de derecha a izquierda oriente - occidente, luego un rombo con dos vacas, al rededor arbustos, seguido dos hileras de arbustos con dos vacas en el callejón, y una flecha que dice orientado sobre la trayectoria del sol.') 
 
     Separador 
     
@@ -221,7 +221,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Tipos de estratos en el sistema silvopastoril</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-9-1.svg', alt='Figura 3 Tipos de estratos en el sistema silvopastoril. Estrato alto. Estrato medio. Estrato bajo')  
+          img.mb-3(src='@/assets/curso/temas/tema2/img-9-1.jpg', alt='Figura 3 Tipos de estratos en el sistema silvopastoril. Estrato alto. Estrato medio. Estrato bajo')  
           figcaption Nota. Tomado de Carvajal.
 
     .row.mt-5
@@ -229,7 +229,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Tipos de estratos en el sistema silvopastoril</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-9-2.svg', alt='Figura 3 Tipos de estratos en el sistema silvopastoril. Estrato alto. Estrato medio. Estrato bajo')  
+          img(src='@/assets/curso/temas/tema2/img-9-2.jpg', alt='Figura 3 Tipos de estratos en el sistema silvopastoril. Estrato alto. Estrato medio. Estrato bajo')  
 
     TabsA.color-acento-botones.mb-5
       .tarjeta.tarjeta--azul.p-4(titulo="Estrato bajo o de pastoreo")
@@ -264,7 +264,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Características de las especies vegetales a establecer en el SSP</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-10.svg', alt='Identificación del uso de especies locales, desde tiempos ancestrales. Buena adaptación a la zona. Facilidad de propagación. Capacidad de rebote después de corte o pastoreo. Capacidad de asociarse con otras especies. Gustosidad y buena calidad nutricional. Alto rendimiento de forraje verde en MS/Ha')
+          img.mb-3(src='@/assets/curso/temas/tema2/img-10.jpg', alt='Identificación del uso de especies locales, desde tiempos ancestrales. Buena adaptación a la zona. Facilidad de propagación. Capacidad de rebote después de corte o pastoreo. Capacidad de asociarse con otras especies. Gustosidad y buena calidad nutricional. Alto rendimiento de forraje verde en MS/Ha')
 
     .row
       .col-lg-4

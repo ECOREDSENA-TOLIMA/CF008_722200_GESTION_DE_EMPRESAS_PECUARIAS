@@ -225,13 +225,13 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Buenas Prácticas Agrícolas</em>
         figure
-          img(src='@/assets/curso/temas/tema1/img-22.svg', alt='Figura 1 Buenas Prácticas Agrícolas. En la figura se observa: Manejo: manejo de excretas, biodigestores, captura de agua. Sanidad: uso de plantas medicinales. Alimentación: diseño de sistemas silvopastoriles, uso y conservación de forrajes, bloques nutricionales, manejo de pastizales, rotación de potreros.')  
+          img(src='@/assets/curso/temas/tema1/img-22.jpg', alt='Figura 1 Buenas Prácticas Agrícolas. En la figura se observa: Manejo: manejo de excretas, biodigestores, captura de agua. Sanidad: uso de plantas medicinales. Alimentación: diseño de sistemas silvopastoriles, uso y conservación de forrajes, bloques nutricionales, manejo de pastizales, rotación de potreros.')  
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-primario
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Buenas Prácticas Agrícolas</em>
         figure
-          img(src='@/assets/curso/temas/tema1/img-23.svg', alt='Figura 1 Buenas Prácticas Agrícolas. En la figura se observa: Manejo: manejo de excretas, biodigestores, captura de agua. Sanidad: uso de plantas medicinales. Alimentación: diseño de sistemas silvopastoriles, uso y conservación de forrajes, bloques nutricionales, manejo de pastizales, rotación de potreros.')  
+          img(src='@/assets/curso/temas/tema1/img-23.jpg', alt='Figura 1 Buenas Prácticas Agrícolas. En la figura se observa: Manejo: manejo de excretas, biodigestores, captura de agua. Sanidad: uso de plantas medicinales. Alimentación: diseño de sistemas silvopastoriles, uso y conservación de forrajes, bloques nutricionales, manejo de pastizales, rotación de potreros.')  
 
     p.mb-5 La normatividad que legisla sobre las buenas prácticas agrícolas - BPA se encuentra expresada en la siguiente tabla. 
 
