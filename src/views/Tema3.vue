@@ -143,7 +143,7 @@
       h2 3.5 Métodos de siembra
 
     h3 Establecimiento de un sistema silvopastoril con nueva pastura
-    p Para empezar, se debe realizar un análisis de los suelos para poder verificar el tipo, los nutrientes y las necesidades presentes en el proyecto. Posterior a ello, se debe preparar el terreno de acuerdo con las necesidades presentes y se incorporan los nutrientes (abonado) para así realizar la siembra. El establecimiento de los pastos de acuerdo con la Corporación Colombiana de Investigación Agropecuaria (AGROSAVIA) en la siembra manual utiliza 7000 gramos de semilla de pastura para 1 Ha (ver figura 1). El monitoreo y el mantenimiento del terreno sembrado garantizará una cobertura total de las áreas sembradas.
+    p Para empezar, se debe realizar un análisis de los suelos para poder verificar el tipo, los nutrientes y las necesidades presentes en el proyecto. Posterior a ello, se debe preparar el terreno de acuerdo con las necesidades presentes y se incorporan los nutrientes (abonado) para así realizar la siembra. El establecimiento de los pastos de acuerdo con la Corporación Colombiana de Investigación Agropecuaria (AGROSAVIA) en la siembra manual utiliza 7000 gramos de semilla de pastura para 1 Ha (ver figura 7). El monitoreo y el mantenimiento del terreno sembrado garantizará una cobertura total de las áreas sembradas.
     p.mb-5 Para garantizar la producción de especies vegetales <em>in situ</em> es necesaria la implementación de un vivero, en el cual se realizará la producción en masa de los arbustos y árboles proyectados para el sistema silvopastoril. Cabe anotar que el vivero deberá ser acordonado para que los animales no puedan ingresar.
 
     .row.justify-content-center.align-items-center.mb-5

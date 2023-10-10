@@ -54,7 +54,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Arboles dispersos  
-            p Árboles dispersos: los árboles sirven de sombra así como permiten el paso de la luz solar por medio de sus ramas que producen buenos pastos como ocurre con el Cambrón blanco <em>(“Prosopis juliflora”)</em> en zonas de trópico bajo donde hay periodos de sequía extensos. 
+            p los árboles sirven de sombra así como permiten el paso de la luz solar por medio de sus ramas que producen buenos pastos como ocurre con el Cambrón blanco <em>(“Prosopis juliflora”)</em> en zonas de trópico bajo donde hay periodos de sequía extensos. 
             p Otro punto importante de la instalación de árboles en la finca es que algunas especies, como las leguminosas, mejoran el suelo debido a su interacción con microorganismos llamados micorrizas, que tienen la capacidad de absorber el nitrógeno del aire y almacenarlo junto a las raíces de los árboles. 
           .col-md-6
             figure
@@ -191,7 +191,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-6.png', alt='Texto que describa la imagen')
           .col-md-5.mb-4.mb-md-0.offset-2
-            p La combinación de especies arbóreas con alguna arbustivas aumentaran la eficiencia de la barrera y el control de los vientos. Las especies a instalar en una barrera viva deben ser de crecimiento rápido, resistentes a los vientos, a las plagas y las enfermedades, tener crecimiento de ramas y copa. 
+            p La combinación de especies arbóreas con alguna arbustivas aumentarán la eficiencia de la barrera y el control de los vientos. Las especies a instalar en una barrera viva deben ser de crecimiento rápido, resistentes a los vientos, a las plagas y las enfermedades, tener crecimiento de ramas y copa. 
 
       .py-4.py-md-5(titulo="Introducción")
         .row.justify-content-center.align-items-center
@@ -249,7 +249,7 @@
         .row
           .col-md-12.col-12
             p Está conformado por gran diversidad de árboles multipropósito (productores de madera, sombra, postes, leña, semillas, fruto, forraje, etc.), que aportan gran cantidad de materia orgánica y en muchos casos nitrógeno, cuando son leguminosos.
-            p Estas especies forestales ayudan a reducen la velocidad de caída del agua lluvia, lo que conlleva a una disminución de la erosión de los suelos; protegen contra los vientos o tempestades fuertes; sirven de refugio a avifauna, entomofauna benéfica y fauna silvestre, que apoyan el control biológico de plagas.
+            p Estas especies forestales ayudan a reducir la velocidad de caída del agua lluvia, lo que conlleva a una disminución de la erosión de los suelos; protegen contra los vientos o tempestades fuertes; sirven de refugio a avifauna, entomofauna benéfica y fauna silvestre, que apoyan el control biológico de plagas.
             p Otra ventaja de su introducción al sistema es la reducción de estrés calórico del animal y de las plantas asociadas, al reducir las temperaturas entre 3 y hasta 10 ͦ C. 
       
     Separador 
@@ -264,7 +264,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Características de las especies vegetales a establecer en el SSP</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-10.png', alt='Identificación del uso de especies locales, desde tiempos ancestrales. Buena adaptación a la zona. Facilidad de propagación. Capacidad de rebote después de corte o pastoreo. Capacidad de asociarse con otras especies. Gustosidad y buena calidad nutricional. Alto rendimiento de forraje verde en MS/Ha')
+          img.mb-3(src='@/assets/curso/temas/tema2/img-10.png', alt='Identificación del uso de especies locales, desde tiempos ancestrales. Buena adaptación a la zona. Facilidad de propagación. Capacidad de rebrote después de corte o pastoreo. Capacidad de asociarse con otras especies. Gustosidad y buena calidad nutricional. Alto rendimiento de forraje verde en MS/Ha')
 
     .row
       .col-lg-4
@@ -346,7 +346,7 @@
               tr
                 td <strong>Tilo</strong>
                 td <em>Ranunculus acris</em>
-                td Tilia 
+                td Alto
 
     .row
       .col-lg-4
@@ -480,13 +480,13 @@
               img(src='@/assets/curso/temas/tema2/img-15.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0 
-            p Estos árboles pueden ser de especies leguminosas (nacedero, guamo, orejero, chachafruto, mata ratón, etc.) que fijan nitrógeno al suelo y son palatables para el ganado, y especies leñosas (Melina, Abarco, Acacio, Macano, etc.), las cuales brindaran sombra al ganado y que en un futuro podrían proveer buenos ingresos para los productores por la venta de madera.
+            p Estos árboles pueden ser de especies leguminosas (nacedero, guamo, orejero, chachafruto, mata ratón, etc.) que fijan nitrógeno al suelo y son palatables para el ganado, y especies leñosas (Melina, Abarco, Acacio, Macano, etc.), las cuales brindarán sombra al ganado y que en un futuro podrían proveer buenos ingresos para los productores por la venta de madera.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img-16.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Se debe implementar un vivero dentro de la finca con el objeto de que las especies estén aisladas, para así evitar el acceso del ganado a las praderas y por ende daños mecánicos y destrucción de las plántulas por el mismo. Para tal efecto se debe planificar cuales praderas se van a reforestar cada año, para así aislarlas de su intromisión.
+            p Se debe implementar un vivero dentro de la finca con el objeto de que las especies estén aisladas, para así evitar el acceso del ganado a las praderas y por ende daños mecánicos y destrucción de las plántulas por el mismo. Para tal efecto se debe planificar cuáles praderas se van a reforestar cada año, para así aislarlas de su intromisión.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img-17.png', alt='')
@@ -554,7 +554,7 @@
               img(src='@/assets/curso/temas/tema2/img-27.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p La aplicación de estas mediciones en primera instancia nos brindaran la carga brindada al animal y a medida que se obtengan más datos se ira proyectando el establecimiento de los demás potreros para mejora en la producción.
+            p La aplicación de estas mediciones en primera instancia nos brindarán la carga brindada al animal y a medida que se obtengan más datos se ira proyectando el establecimiento de los demás potreros para mejora en la producción.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img-28.png', alt='')
@@ -635,7 +635,7 @@ export default {
       {
         titulo: 'Métodos de estimación',
         texto:
-          'Un adecuado diseño de los arreglos debe favorecer las interacciones positivas que se presentan entre los componentes como producción de sombra, protección contra el viento, producción de forraje, fijación de nitrógeno y reciclaje de nutrientes, control de la erosión, des compactación del suelo, cambios positivos en el balance hídrico y generación de controladores biológicos de plagas y de vectores causantes de enfermedades.',
+          'Un adecuado diseño de los arreglos debe favorecer las interacciones positivas que se presentan entre los componentes como producción de sombra, protección contra el viento, producción de forraje, fijación de nitrógeno y reciclaje de nutrientes, control de la erosión, descompactación del suelo, cambios positivos en el balance hídrico y generación de controladores biológicos de plagas y de vectores causantes de enfermedades.',
         imagen: require('@/assets/curso/temas/tema2/img-18.png'),
       },
       {

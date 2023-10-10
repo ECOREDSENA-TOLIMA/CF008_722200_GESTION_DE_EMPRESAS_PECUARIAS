@@ -28,7 +28,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Sistemas silvopastoriles trópico bajo y trópico alto',
+        titulo: 'Sistemas silvopastoriles trópico bajo y alto',
         desarrolloContenidos: true,
         subMenu: [
           {
