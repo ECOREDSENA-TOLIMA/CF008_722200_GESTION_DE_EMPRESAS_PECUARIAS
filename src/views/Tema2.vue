@@ -345,7 +345,7 @@
                 td(style="background-color:#F6F6F6") Alto
               tr
                 td <strong>Tilo</strong>
-                td <em>Ranunculus acris</em>
+                td <em>Tilia</em>
                 td Alto
 
     .row
